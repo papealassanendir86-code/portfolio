@@ -5,16 +5,13 @@
 💻 Passionate about C++ development, systems, and database design.
 
 ---
-
 ### 🚀 About Me
-
 - 📚 Currently studying Computer Science at IUT d'Aix-Marseille (Arles, France).
 - ⚙️ Deeply interested in C++ (memory management, data structures, OOP), Linux/Unix environments, and relational database design.
 - 🎯 Looking for opportunities to apply my technical skills to real-world software and system projects.
 - 💬 Ask me about: C++, Shell scripting, SQL, or computer science fundamentals.
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Concepts:**
@@ -27,7 +24,6 @@
 `Linux / Unix` `VS Code` `Terminal`
 
 ---
-
 ### 📁 Featured Projects (Academic & Personal)
 
 #### 🔹 [Project Name 1 / SAÉ C++]
@@ -40,14 +36,11 @@
 - **Tech Stack:** SQL, PostgreSQL, Merise/UML.
 
 ---
-
 ### 📫 Connect with Me
 
 - **LinkedIn:** www.linkedin.com/in/pape-alassane-ndir-66a165437
 
-)
 - **Email:** papealassanendir86@gmail.com
 
 ---
-
 *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
