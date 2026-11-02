@@ -43,7 +43,7 @@
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile]www.linkedin.com/in/pape-alassane-ndir-66a165437
+- **LinkedIn:** www.linkedin.com/in/pape-alassane-ndir-66a165437
 
 )
 - **Email:** papealassanendir86@gmail.com
